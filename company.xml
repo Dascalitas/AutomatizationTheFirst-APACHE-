@@ -1,0 +1,442 @@
+
+<mafia>
+
+<department name="Capo" depId="1">
+
+    <member memId="001">
+        <lastName>Denaro</lastName>
+        <firstName>Matteo Messina</firstName>
+        <birthDate>26.04.1962</birthDate>
+        <position>Capo di Tutti Capi</position>
+        <skills>
+            <skill>Communication</skill>
+            <skill>good shooter</skill>
+        </skills>
+        <managerId>0</managerId>
+    </member>
+
+    <member memId="002" >
+        <lastName>Salieri</lastName>
+        <firstName>Ennio</firstName>
+        <birthDate>15.12.1873</birthDate>
+        <position>Capo Famiglia</position>
+        <skills>
+            <skill>good shooter</skill>
+            <skill>good strategist</skill>
+            <skill>Love Colt</skill>
+        </skills>
+        <managerId>001</managerId>
+    </member>
+
+    <member memId="003" >
+        <lastName>Moretti</lastName>
+        <firstName>Tomazo</firstName>
+        <birthDate>01.04.1890</birthDate>
+        <position>Capo Famiglia</position>
+        <skills>
+            <skill>Communication</skill>
+            <skill>good strategy</skill>
+            <skill>love fireshow</skill>
+        </skills>
+        <managerId>001</managerId>
+    </member>
+
+    <member memId="004" >
+        <lastName>Falcone</lastName>
+        <firstName>Karlo</firstName>
+        <birthDate>22.08.1905</birthDate>
+        <position>Capo Famiglia</position>
+        <skills>
+            <skill>good driver</skill>
+            <skill>big filantroph</skill>
+            <skill>good strateg</skill>
+        </skills>
+        <managerId>001</managerId>
+    </member>
+
+    <member memId="005" >
+        <lastName>Clementi</lastName>
+        <firstName>Alberto</firstName>
+        <birthDate>15.07.1897</birthDate>
+        <position>Capo Famiglia</position>
+        <skills>
+            <skill>good entrepreneur</skill>
+            <skill>pharmaceuticals abilities</skill>
+        </skills>
+        <managerId>001</managerId>
+    </member>
+
+    <member memId="006" >
+        <lastName>Viccini</lastName>
+        <firstName>Calojero</firstName>
+        <birthDate>24.07.1877</birthDate>
+        <position>Capo Famiglia</position>
+        <skills>
+            <skill>powerful communication abilities</skill>
+            <skill>big strateg</skill>
+            <skill>love Italy</skill>
+        </skills>
+        <managerId>001</managerId>
+    </member>
+
+</department>
+
+<department name="famiglia" depId="2">
+
+<member memId="007" >
+    <lastName>Colletti</lastName>
+    <firstName>Frank</firstName>
+    <birthDate>19.05.1877</birthDate>
+    <position>Consigliere</position>
+    <skills>
+        <skill>good lawyer</skill>
+        <skill>good strategist</skill>
+    </skills>
+    <managerId>002</managerId>
+</member>
+
+<member memId="008" >
+    <lastName>Galante</lastName>
+    <firstName>Leo</firstName>
+    <birthDate>09.09.1887</birthDate>
+    <position>Consigliere</position>
+    <skills>
+        <skill>good fighter</skill>
+        <skill>good trader</skill>
+        <skill>good strategist</skill>
+    </skills>
+    <managerId>003</managerId>
+</member>
+
+<member memId="009" >
+    <lastName>Marriati</lastName>
+    <firstName>Ettor</firstName>
+    <birthDate>05.19.1890</birthDate>
+    <position>Consigliere</position>
+    <skills>
+        <skill>love his MP-40</skill>
+    </skills>
+    <managerId>004</managerId>
+</member>
+
+<member memId="010" >
+    <lastName>Consilliere</lastName>
+    <firstName>Clementi</firstName>
+    <birthDate>24.03.1884</birthDate>
+    <position>Consigliere</position>
+    <skills>
+        <skill>love fireworks</skill>
+        <skill>not as smart as you think</skill>
+    </skills>
+    <managerId>005</managerId>
+</member>
+
+<member memId="011" >
+    <lastName>Primac</lastName>
+    <firstName>Ernesto</firstName>
+    <birthDate>11.06.1863</birthDate>
+    <position>Consigliere</position>
+    <skills>
+        <skill>Sleeps only 2 hours per day</skill>
+        <skill>the only who now java</skill>
+        <skill>the only who can win all games</skill>
+    </skills>
+    <managerId>006</managerId>
+</member>
+
+<member memId="012" >
+    <lastName>Morrelo</lastName>
+    <firstName>Sergio</firstName>
+    <birthDate>01.01.1859</birthDate>
+    <position>Sotto Capo</position>
+    <skills>
+        <skill>good shooter</skill>
+        <skill>bad driver</skill>
+        <skill>bad-ass</skill>
+    </skills>
+    <managerId>002</managerId>
+</member>
+
+<member memId="013" >
+    <lastName>Scarpa</lastName>
+    <firstName>Eddie</firstName>
+    <birthDate>12.07.1861</birthDate>
+    <position>Sotto Capo</position>
+    <skills>
+        <skill>at half italian</skill>
+        <skill>love driving</skill>
+        <skill>don't love shooting</skill>
+    </skills>
+    <managerId>003</managerId>
+</member>
+
+<member memId="014" >
+    <lastName>Gravina</lastName>
+    <firstName>Tinnie</firstName>
+    <birthDate>29.09.1858</birthDate>
+    <position>Sotto Capo</position>
+    <skills>
+        <skill>good strategist</skill>
+        <skill>big communication skills</skill>
+    </skills>
+    <managerId>004</managerId>
+</member>
+
+<member memId="015" >
+    <lastName>Marinade</lastName>
+    <firstName>Pomodorro</firstName>
+    <birthDate>01.01.1820</birthDate>
+    <position>Sotto Capo</position>
+    <skills>
+        <skill>love tomatoes</skill>
+        <skill>eat a lot of meat</skill>
+        <skill>have mini restaurant</skill>
+    </skills>
+    <managerId>005</managerId>
+</member>
+
+<member memId="016" >
+    <lastName>Fettucinni</lastName>
+    <firstName>Vecinni</firstName>
+    <birthDate>01.01.2001</birthDate>
+    <position>Sotto Capo</position>
+    <skills>
+        <skill>is neighbour of Trump</skill>
+        <skill>sometimes eat bread with butter</skill>
+        <skill>love massage</skill>
+    </skills>
+    <managerId>006</managerId>
+</member>
+
+
+
+</department>
+
+<department name="Soldato" depId="3">
+
+<member memId="017" >
+    <lastName>Cappucino</lastName>
+    <firstName>Ernesto</firstName>
+    <birthDate>01.03.1890</birthDate>
+    <position>Capodecina</position>
+    <skills>
+        <skill>big coffee-man</skill>
+        <skill>have small coffee shop</skill>
+    </skills>
+    <managerId>012</managerId>
+</member>
+
+<member memId="018" >
+    <lastName>Macarroni</lastName>
+    <firstName>Eddie</firstName>
+    <birthDate>12.02.1878</birthDate>
+    <position>Capodecina</position>
+    <skills>
+        <skill>have small restaurant</skill>
+        <skill>love spaggeti</skill>
+        <skill>hate his co'member Spagetonie</skill>
+    </skills>
+    <managerId>012</managerId>
+</member>
+
+<member memId="019" >
+    <lastName>Spagetonie</lastName>
+    <firstName>Tonnie</firstName>
+    <birthDate>01.12.1877</birthDate>
+    <position>Capodecina</position>
+    <skills>
+        <skill>have a few resturants of italian kitchen</skill>
+        <skill>love to cook</skill>
+    </skills>
+    <managerId>012</managerId>
+</member>
+
+<member memId="020" >
+    <lastName>Catza</lastName>
+    <firstName>Boriso</firstName>
+    <birthDate>11.11.1879</birthDate>
+    <position>Capodecina</position>
+    <skills>
+        <skill>have big shelter</skill>
+        <skill>love animals</skill>
+    </skills>
+    <managerId>012</managerId>
+</member>
+
+<member memId="021" >
+    <lastName>Putano</lastName>
+    <firstName>Ennio</firstName>
+    <birthDate>01.06.1878</birthDate>
+    <position>Capodecina</position>
+    <skills>
+        <skill>human trafficant</skill>
+        <skill>had bad childhood</skill>
+        <skill>Works for entusiasm</skill>
+    </skills>
+    <managerId>013</managerId>
+</member>
+
+<member memId="022" >
+    <lastName>Cocaino</lastName>
+    <firstName>Stepano</firstName>
+    <birthDate>07.07.1870</birthDate>
+    <position>Capodecina</position>
+    <skills>
+        <skill>drug dealer</skill>
+        <skill>have some game salons</skill>
+    </skills>
+    <managerId>013</managerId>
+</member>
+
+<member memId="023" >
+    <lastName>Strapone</lastName>
+    <firstName>Silvestro</firstName>
+    <birthDate>01.09.1890</birthDate>
+    <position>Capodecina</position>
+    <skills>
+        <skill>have some whorehouses</skill>
+        <skill>lovely child</skill>
+        <skill>loves his works</skill>
+    </skills>
+    <managerId>013</managerId>
+</member>
+
+<member memId="024" >
+    <lastName>Petuchio</lastName>
+    <firstName>Janne</firstName>
+    <birthDate>12.03.1891</birthDate>
+    <position>Capodecina</position>
+    <skills>
+        <skill>drug dealer</skill>
+        <skill>have some taxi businesses</skill>
+    </skills>
+    <managerId>013</managerId>
+</member>
+
+<member memId="025" >
+    <lastName>Pepperoni</lastName>
+    <firstName>Armoni</firstName>
+    <birthDate>09.11.1888</birthDate>
+    <position>Capodecina</position>
+    <skills>
+        <skill>love pepperoni</skill>
+        <skill>love pizza with pepperoni</skill>
+        <skill>love coffe with pepperoni</skill>
+    </skills>
+    <managerId>014</managerId>
+</member>
+
+<member memId="026" >
+    <lastName>Enstein</lastName>
+    <firstName>Frank</firstName>
+    <birthDate>03.03.1876</birthDate>
+    <position>Capodecina</position>
+    <skills>
+        <skill>work in urgency</skill>
+        <skill>always have some organs</skill>
+    </skills>
+    <managerId>014</managerId>
+</member>
+
+<member memId="027" >
+    <lastName>Mandolino</lastName>
+    <firstName>Paul</firstName>
+    <birthDate>01.03.1875</birthDate>
+    <position>Capodecina</position>
+    <skills>
+        <skill>musician</skill>
+        <skill>have some mexican friends</skill>
+    </skills>
+    <managerId>014</managerId>
+</member>
+
+<member memId="028" >
+    <lastName>Putin</lastName>
+    <firstName>Vitalio</firstName>
+    <birthDate>09.09.1870</birthDate>
+    <position>Capodecina</position>
+    <skills>
+        <skill>powerful russian</skill>
+        <skill>drink vodka</skill>
+        <skill>have some bears</skill>
+    </skills>
+    <managerId>015</managerId>
+
+</member>
+<member memId="029" >
+    <lastName>Cheninio</lastName>
+    <firstName>Kim</firstName>
+    <birthDate>03.10.1869</birthDate>
+    <position>Capodecina</position>
+    <skills>
+        <skill>love guns</skill>
+        <skill>love big guns</skill>
+        <skill>love very big guns</skill>
+    </skills>
+    <managerId>015</managerId>
+</member>
+
+<member memId="030" >
+    <lastName>Merchel</lastName>
+    <firstName>Fabiano</firstName>
+    <birthDate>12.10.1880</birthDate>
+    <position>Capodecina</position>
+    <skills>
+        <skill>have friends in germany</skill>
+        <skill>have coupons in some markets</skill>
+        <skill>maybe he is a girl</skill>
+    </skills>
+    <managerId>015</managerId>
+</member>
+
+<member memId="031" >
+    <lastName>Mussolini</lastName>
+    <firstName>Paulo</firstName>
+    <birthDate>01.05.1801</birthDate>
+    <position>Capodecina</position>
+    <skills>
+        <skill>grandson of Mussolini</skill>
+        <skill>don't know who is his grandFather</skill>
+        <skill>love his GodFather</skill>
+    </skills>
+    <managerId>016</managerId>
+</member>
+
+<member memId="032" >
+    <lastName>Panini</lastName>
+    <firstName>Pablo</firstName>
+    <birthDate>17.01.1817</birthDate>
+    <position>Capodecina</position>
+    <skills>
+        <skill>have some businesses</skill>
+        <skill>always look fresh</skill>
+    </skills>
+    <managerId>016</managerId>
+</member>
+
+<member memId="033" >
+    <lastName>Crabono</lastName>
+    <firstName>Crusty</firstName>
+    <birthDate>15.05.1806</birthDate>
+    <position>Capodecina</position>
+    <skills>
+        <skill>know the secret formula of crabsburger</skill>
+    </skills>
+    <managerId>016</managerId>
+</member>
+
+<member memId="034" >
+    <lastName>Carbonara</lastName>
+    <firstName>Stanley</firstName>
+    <birthDate>17.05.1885</birthDate>
+    <position>Capodecina</position>
+    <skills>
+        <skill>can cook very well</skill>
+        <skill>now the secret ingredient of crabsburger</skill>
+    </skills>
+    <managerId>016</managerId>
+</member>
+
+</department>
+
+</mafia>
